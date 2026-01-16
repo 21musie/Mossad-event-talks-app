@@ -1,0 +1,44 @@
+[
+  {
+    "title": "The Future of Artificial Intelligence",
+    "speakers": ["Dr. Evelyn Reed"],
+    "categories": ["AI", "Machine Learning"],
+    "duration": 60,
+    "description": "A deep dive into the latest advancements in AI and what to expect in the coming years."
+  },
+  {
+    "title": "Building Scalable Web Applications",
+    "speakers": ["John Smith", "Jane Doe"],
+    "categories": ["Web Development", "Scalability"],
+    "duration": 60,
+    "description": "Learn the best practices for building web applications that can handle millions of users."
+  },
+  {
+    "title": "Cybersecurity in a Connected World",
+    "speakers": ["Alex Chen"],
+    "categories": ["Cybersecurity"],
+    "duration": 60,
+    "description": "An overview of the current cybersecurity landscape and how to protect yourself and your organization."
+  },
+  {
+    "title": "The Power of Quantum Computing",
+    "speakers": ["Dr. Ben Carter"],
+    "categories": ["Quantum Computing", "Future Tech"],
+    "duration": 60,
+    "description": "Explore the mind-bending world of quantum computing and its potential to revolutionize industries."
+  },
+  {
+    "title": "Frontend Frameworks: A Comparative Analysis",
+    "speakers": ["Maria Garcia"],
+    "categories": ["Web Development", "JavaScript"],
+    "duration": 60,
+    "description": "A comprehensive comparison of the most popular frontend frameworks: React, Vue, and Angular."
+  },
+  {
+    "title": "DevOps: Culture and Practice",
+    "speakers": ["Chris Williams", "Patricia Jenkins"],
+    "categories": ["DevOps", "Agile"],
+    "duration": 60,
+    "description": "Understand the culture and practices of DevOps and how it can transform your development lifecycle."
+  }
+]
